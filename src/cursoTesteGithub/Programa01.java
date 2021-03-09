@@ -7,6 +7,10 @@ public class Programa01 {
 		System.out.println("OKKKK!!");
 		System.out.println("OKKKK!!");
 		System.out.println("OKKKK!!");
+		//-------
+		System.out.println("OKKKK!!  ==>>");
+		System.out.println("OKKKK!!  ==>>");
+		System.out.println("OKKKK!!  ==>>");
 	}
 
 }
